@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feature/reconciliation-job",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feature/reconciliation-job": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feature/reconciliation-job",
+    "origin"
+  ]
+}

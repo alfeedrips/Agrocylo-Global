@@ -35,11 +35,9 @@ test-results/
 test_snapshots/
 
 # Environment
-.env*
 !.env.example
 
 # IDEs
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -59,3 +57,4 @@ Thumbs.db
 # Rust / Soroban
 target/
 *.rs.bk
+config.bat
